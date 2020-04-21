@@ -1,0 +1,2 @@
+# wordpressn
+my gallary
